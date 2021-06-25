@@ -1,3 +1,4 @@
 resources:
 - ./flux2.yaml
 - ./external-secrets.yaml
+- ./hello-service.yaml
